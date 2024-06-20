@@ -1,0 +1,8 @@
+[package]
+name = "opcode-utils"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/FairgateLabs/opcode-utils"
+
+[dependencies]
+bitcoin = { version = "0.32.1" }
